@@ -13,6 +13,8 @@ Built without a framework, I thought it was interesting seeing a vanilla approac
    ```
 
 ### 2. Start a live server
+Make sure you have the [Live Server Extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) (VS Code) installed
+
 On bottom right of your screen, press "Go Live"
 
 <img width="485" height="996" alt="image" src="https://github.com/user-attachments/assets/78f7576e-6d69-45d6-9466-d37e3e6fa6c9" />
